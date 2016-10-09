@@ -1,3 +1,5 @@
+# java home
+JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 ifndef JAVA_HOME
     $(error JAVA_HOME not set)
 endif
